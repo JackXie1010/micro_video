@@ -1,2 +1,5 @@
 # micro_video
-web site of micro_video
+快速将项目运行起来：
+1. 在你的mysql 数据服务建一个名为movie的数据库，然后运行movie.sql数据库脚本快速生成数据表
+2. 修改app文件夹下的__init__.py 文件中的数据库的用户名和密码为你的mysql服务的用户名和密码等配置
+3. 访问链接： http://182.61.45.67:8001/1/
