@@ -112,7 +112,7 @@ parso==0.2.0
 pbr==3.1.1
 pendulum==1.5.1
 pickleshare==0.7.4
-Pillow==5.0.0
+Pillow==6.2.0
 pinyin==0.4.0
 pipenv==2018.7.1
 prompt-toolkit==1.0.15
