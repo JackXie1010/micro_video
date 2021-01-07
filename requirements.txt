@@ -88,7 +88,7 @@ kombu==3.0.37
 legacy==0.1.6
 locustio==0.8.1
 lulu==0.5.3
-lxml==4.1.1
+lxml==4.6.2
 Mako==1.0.7
 MarkupSafe==1.0
 matplotlib==2.2.2
