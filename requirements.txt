@@ -45,7 +45,7 @@ eventlet==0.22.1
 ffmpeg==0.1.4
 Flask==0.12.2
 Flask-Bootstrap==3.3.7.1
-Flask-Cors==3.0.4
+Flask-Cors==3.0.9
 Flask-Login==0.4.1
 Flask-Migrate==2.1.1
 Flask-MySQLdb==0.2.0
